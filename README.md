@@ -1,7 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 * `latest` ([Dockerfile])
 
-[![](https://imagelayers.io/badge/mambix/bitcore:latest.svg)](https://imagelayers.io/?images=mambix/bitcore:latest 'Get your own badge on imagelayers.io')
+![Bitcore v4.1.0](https://img.shields.io/badge/bitcore-v4.1.0-green.svg)
 
 ## Bitcore
 Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
