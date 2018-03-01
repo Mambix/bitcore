@@ -1,5 +1,5 @@
 FROM node:4
-MAINTAINER Joao Sena Ribeiro <sena@smux.net>
+MAINTAINER Mambix Ltd. <ledi.mambix@gmail.com>
 
 EXPOSE 3001 8333 18333
 
