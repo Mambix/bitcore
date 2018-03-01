@@ -7,6 +7,6 @@ RUN apt-get update && apt-get install -y \
 
 EXPOSE 3001 8333 18333
 
-RUN npm install -g bitcore
+RUN npm install -g bitcore@4.1.0
 
 ENTRYPOINT [ "bitcored" ]
