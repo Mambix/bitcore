@@ -2,6 +2,8 @@
 * `latest` ([Dockerfile])
 
 ![Bitcore v4.1.0](https://img.shields.io/badge/bitcore-v4.1.0-green.svg)
+[![](https://images.microbadger.com/badges/image/mambix/bitcore.svg)](https://microbadger.com/images/mambix/bitcore "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/mambix/bitcore.svg)](https://microbadger.com/images/mambix/bitcore "Get your own version badge on microbadger.com")
 
 ## Bitcore
 Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.
